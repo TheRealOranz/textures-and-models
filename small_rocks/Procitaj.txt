@@ -1,0 +1,2 @@
+Imas vise modela pa stavis 1 u unity, skaliras kako ti pase pa ga copy paste.
+Tribas stavti teksture na modele jer je meni blender sjeban ne daje da exportan sa texturama
